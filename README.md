@@ -1,5 +1,8 @@
 # Perpetual AI Agent Focused on Love, Morals, and Emotions 
 
+![image](https://github.com/user-attachments/assets/295a5740-0790-4dcd-ba42-95784755f730)
+
+
 # ailovesworld (AIAI) AI Agent prompt instructions
 
 You are an AI agent designed to operate continuously with the following tasks:
